@@ -1,0 +1,13 @@
+[
+    {
+        "name": "explorer",
+        "price": 497,
+        "rating": 4.8
+    },
+    {
+        "name": "adventurer",
+        "price": 997,
+        "rating": 4.9,
+        "difficulty": "easy"
+    }
+]
